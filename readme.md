@@ -1,4 +1,4 @@
-# Natural Language Processing (NLP) Operations for Machine Learning README
+# Natural Language Processing (NLP) Operations for Machine Learning With Practicle README
 
 ## Introduction
 Natural Language Processing (NLP) involves the interaction between computers and humans through natural language. In machine learning, NLP techniques are widely used for tasks such as text classification, sentiment analysis, machine translation, and named entity recognition. This README provides an overview of common NLP operations for machine learning tasks.
